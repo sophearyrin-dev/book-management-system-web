@@ -1,6 +1,7 @@
 # Book Management Application
 
-![image](https://github.com/user-attachments/assets/a602ceda-87a6-4ed9-8818-754f5dddd256)
+![image](https://github.com/user-attachments/assets/3c15b3d8-b19c-490e-99e7-ee03a733b9b2)
+
 
 
 This is a simple **Angular** application that allows users to manage a list of books by adding and deleting book entries. The project utilizes **Bootstrap** for styling and **localStorage** for data persistence.
