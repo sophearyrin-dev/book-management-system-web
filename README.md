@@ -1,27 +1,28 @@
-# BookManagementSystem
+# Book Management Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.7.
+![image](https://github.com/user-attachments/assets/a602ceda-87a6-4ed9-8818-754f5dddd256)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+This is a simple **Angular** application that allows users to manage a list of books by adding and deleting book entries. The project utilizes **Bootstrap** for styling and **localStorage** for data persistence.
 
-## Code scaffolding
+## Features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Add Books**: Enter book title and author to add a new book to the list.
+- **Delete Books**: Remove books from the list with a delete button.
+- **Persistent Storage**: Book data is saved in the browser's local storage.
+- **Dynamic UI**: Each book card is assigned a unique background color.
 
-## Build
+## Demo Video
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Watch the application in action:
 
-## Running unit tests
+https://github.com/user-attachments/assets/15d196dd-bb12-415d-87a3-3aa44de9506b
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+> Click the image above to watch the demo video.
 
-## Running end-to-end tests
+## Technologies Used
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+- **Angular**: Component-based framework for building UI.
+- **Bootstrap**: Responsive and modern styling.
+- **TypeScript**: Strongly typed programming language for Angular.
+- **LocalStorage**: Browser storage to persist book data.
